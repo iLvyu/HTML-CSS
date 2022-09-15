@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Hierarquia de Títulos</title>
+    
+    <link rel="shortcut icon" href="faviconIC.png" type="image/x-icon">
+</head>
+<body>
+    <h1>Entendendo Portugal</h1>
+        <h2>Introdução</h2>
+            <h3>Justificação da temática</h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi nisi dolorem quod minima provident atque exercitationem, nesciunt non sapiente ducimus, deserunt voluptate nihil consectetur hic optio! Nulla earum reprehenderit quo.</p>
+            <h3>Caráter excecional</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque molestias omnis corporis nemo dolor hic, placeat assumenda similique ea quas error quidem exercitationem inventore adipisci voluptates! Nemo suscipit voluptates itaque.</p>
+            <h3>Metodologia de Investigação</h3>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea dicta, cumque eos repellat doloribus laudantium ratione enim voluptatum earum a deserunt neque ex delectus itaque minima odit ad facere porro!</p>
+        <h2>Ordenamento do Território em Portugal</h2>
+            <h3>Os instrumentos de gestão</h3>
+                <h4>Os instrumentos de planeamento</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, sunt ut. Neque inventore quos recusandae, sapiente eum quibusdam laudantium accusantium id harum quod odit fuga minus molestiae ea error fugit.</p>
+                <h4>Os regimes territoriais especiais</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque obcaecati at nam facilis voluptatem quaerat ab ad est. Aliquid voluptatem in numquam, nobis beatae dolorum praesentium sed deserunt animi maiores?</p>
+    <!--Os headings 'h' vão até o 6. H1...H6 -->
+    <Marquee behavior="" direction="right">OOOI</Marquee>
+<!-- Não se usa mais esse "marquee" --- W3C veja-->
+</body>
+</html>
