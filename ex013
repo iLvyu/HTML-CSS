@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estilos Inline</title>
+    <style>
+        body{
+            background-color: lightslategray;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+        }
+        h1{
+            color: bisque;
+        }
+        h2{
+            color:honeydew;
+        }
+        p{
+            text-align: justify;
+            color: mediumturquoise;
+        }
+        /*
+        Desvantagens: 
+        - A tag <style> ocupa muito espaço, mais que o conteúdo, as vezes. 
+        - E nesse caso se eu tiver 30 páginas eu tenho que dar CRTL + C / CRTL + V, 30 vezes. */
+    </style>
+</head>
+<body>
+    <h1>Capítulo 1</h1>
+    <h2>Capitulo 1.1</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem omnis, deserunt quod beatae doloremque mollitia repellendus explicabo dolore consectetur consequuntur ratione, dicta, quidem odit rerum libero? Tenetur aperiam natus possimus?</p>
+    <h2>Capítulo 1.2</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quo fugit sit, exercitationem ab qui, commodi tenetur voluptatibus repellat fugiat non error illum culpa voluptate aperiam dignissimos ullam nihil totam.</p>
+    <h1>Capítulo 2</h1>
+    <h2>Capítulo 2.1</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quasi blanditiis possimus quibusdam fuga facilis cupiditate quia quod dolore, eum, recusandae, aspernatur vero ipsa iste natus. Iusto neque possimus non?</p>
+</body>
+</html>
