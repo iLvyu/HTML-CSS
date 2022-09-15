@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parágrafos</title>
+</head>
+<body>
+    <h1>Parágrafos e quebra de linha</h1>
+    <hr>
+    <p>Você pode escrever um parágrafo de qualquer jeito. Basta colocar uma entrada "p" e "/p" </p> 
+    <!--HTML é uma linguagem de marcação, ou seja, tudo o que quiser criar, se tem uma marca para isso!-->
+    <p>A marca "br" é usada para quebrar uma linha 'Break Role'. A tag &lt;br&gt; é usada para quebrar uma linha para a próxima.</p>
+    
+    <p>Nessa aula aprendi o comando &lt que é igual a <. <br></p>
+
+    <p>Ele vem escrito como: <br><strong>&</strong><strong>lt;</strong> - para abertura.<br> e <br><strong>&</strong><strong>gt;</strong> - para fechamento.<br> Aparentemente apenas representa a abertura de tag: '<' <br> e o fechamento: '>'</p>
+    <!-- LT é: Less Than
+         GT é: Greater Than -->
+
+    <p>Vamos adicionar alguns símbolos especiais:
+        &reg;
+        &copy;
+        &trade;
+        &euro;
+        &pound;
+        &yen;          <!--Aqui vemos muitas utilidade com o '&'-->
+        &cent;
+        &dollar;
+        &Delta;
+        &delta;
+        &rarr;
+        &uarr;
+        &larr;
+    </p>
+    <p>Vamos adicionar alguns emmojis:
+        &#x1F596;
+        &#x1F913; <!--Aqui ele deu a dica de usar o emojipedia.com
+        Tá sempre atualizado para todos os navegadores. Mas o Guanabara indica que não apenas copie o emoji, mas que vá até o código no emoji(lá em baixo), sem pegar o "U+" -->
+    </p>
+</body>
+</html>
